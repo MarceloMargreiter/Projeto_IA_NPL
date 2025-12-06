@@ -1,0 +1,8 @@
+pandas==2.3.3
+seaborn==0.13.2
+matplotlib==3.10.7
+jupyterlab==4.5.0
+transformers==4.57.3
+torch==2.9.1
+scikit-learn==1.7.2
+streamlit==1.52.1

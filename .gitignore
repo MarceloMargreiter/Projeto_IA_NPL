@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
