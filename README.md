@@ -50,13 +50,13 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-### 2→ Instale os pacotes necessários no ambiente virtual:
+* ### Instale os pacotes necessários no ambiente virtual:
 
 ```bash
 pip install -r requirements.txt
 ``` 
 
-### 3→ Execute o comando abaixo no terminal para gerar o Dashboard Streamlit:
+* ### Execute o comando abaixo no terminal para gerar o Dashboard Streamlit:
 
 ```bash
 streamlit run app.py
