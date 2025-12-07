@@ -31,7 +31,7 @@ Copiar o endereço do projeto e clonar usando o Terminal do VS Code.
 Git clone "https://github.com/MarceloMargreiter/Projeto_IA_NPL.git"
 ```
 
-* ## Acessar o repositório clonado:
+* ### Acessar o repositório clonado:
 ```bash
 cd .\Projeto_IA_NPL\
 ```
