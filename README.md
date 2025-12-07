@@ -22,13 +22,18 @@
 * ### Apontar para onde o repositório será clonado localmente:
 Digite no Terminal:
 ```bash
-cd "caminho onde o repositório será clonado. (Ex.: "C:/Projeto_IA_PLN")
+cd "caminho onde o repositório será clonado. (Ex.: "C:/Nova Pasta")
 ```
 
 * ### Clonar Projeto
 Copiar o endereço do projeto e clonar usando o Terminal do VS Code.
 ```bash 
 Git clone "https://github.com/MarceloMargreiter/Projeto_IA_NPL.git"
+```
+
+* ## Acessar o repositório clonado:
+```bash
+cd .\Projeto_IA_NPL\
 ```
  
 
